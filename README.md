@@ -1,2 +1,2 @@
-# Headings_HTML
+# HTML
 learning basic html tags
